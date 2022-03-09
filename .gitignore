@@ -149,3 +149,4 @@ logs/running_logs.log
 data/readme*
 data/model/init_model.h5
 logs/running_logs.log
+data/model/trained_model.h5
