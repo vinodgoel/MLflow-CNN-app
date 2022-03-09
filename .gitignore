@@ -145,4 +145,7 @@ PetImages/
 logs/running_logs.log
 data/bad_data
 data/MSR-LA - 3467.docx
-data/readme[1].txt
+logs/running_logs.log
+data/readme*
+data/model/init_model.h5
+logs/running_logs.log
